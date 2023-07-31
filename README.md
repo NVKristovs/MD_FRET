@@ -2,4 +2,4 @@
 Н.В. Кристовский, Г.А. Армеев \
 каф. биоинженерии биологического ф-та МГУ имени М.В. Ломоносова
 
-Модифицированное силовое поле (amber14sb+parmbsc1+cufix)[https://github.com/NVKristovs/MD_FRET/blob/main/amber14sb_parmbsc1_cufix.ff.zip]
+Модифицированное силовое поле [amber14sb+parmbsc1+cufix](https://github.com/NVKristovs/MD_FRET/blob/main/amber14sb_parmbsc1_cufix.ff.zip)
