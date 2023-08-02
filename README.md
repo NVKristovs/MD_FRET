@@ -3,7 +3,7 @@
 каф. биоинженерии биологического ф-та МГУ имени М.В. Ломоносова
 
 Модифицированное силовое поле [amber14sb+parmbsc1+cufix](https://github.com/NVKristovs/MD_FRET/blob/main/amber14sb_parmbsc1_cufix.ff.zip)
-
+#### [Текст ВКР]()
 Примеры характерных взаимодействий меток с ДНК:\
 <img src="https://github.com/NVKristovs/MD_FRET/blob/main/Gif/LUM_cy3.gif" width="500" height="330"/> \
 Рисунок 1. π-π-взаимодействие между Сy3 с линкером от компании Lumiprobe \
